@@ -1,4 +1,4 @@
-# Allan Lab Website
+# IIT Madras Quantum Initiative
 
 This is the website of our academic research group at IIT Madras.
 
