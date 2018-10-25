@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [IIT Madras](http://www.iitm.ac.in). Our aim is to explore and understand [physics of information](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+We are a small, dynamic group at the [IIT Madras](http://www.iitm.ac.in). Our aim is to explore and understand the[physics of information](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), and explore the possibilities of apllications.
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
